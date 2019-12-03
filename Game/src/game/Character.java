@@ -40,6 +40,7 @@ public class Character extends SolidObject implements Drawable,Movable{
         Collision c = this.getCollision();
         if (dx>0 && !c.isRigth() || dx<0 && !c.isLeft() || dx==0){
             getPosition().translate(dx,0);
+            System.out.println("CIAO");
             if(dy<0 && !c.isTop() || dy>0 && !c.isDown() ){
                 getPosition().translate(0, dy);
              
