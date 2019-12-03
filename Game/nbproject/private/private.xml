@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/stefano/NetBeansProjects/Game/src/game/SolidObject.java</file>
+            <file>file:/Users/stefano/NetBeansProjects/Game/src/game/CollisionController.java</file>
+            <file>file:/Users/stefano/NetBeansProjects/Game/src/game/Movable.java</file>
+            <file>file:/Users/stefano/NetBeansProjects/Game/src/game/Direction.java</file>
+            <file>file:/Users/stefano/NetBeansProjects/Game/src/game/Bullet.java</file>
+            <file>file:/Users/stefano/NetBeansProjects/Game/src/game/Collision.java</file>
+            <file>file:/Users/stefano/NetBeansProjects/Game/src/game/Weapon.java</file>
+            <file>file:/Users/stefano/NetBeansProjects/Game/src/game/Character.java</file>
+        </group>
+    </open-files>
+</project-private>
