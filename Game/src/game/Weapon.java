@@ -19,6 +19,7 @@ public class Weapon extends SolidObject{
         super(position, width, heigth, id, isVisible);
         this.bullet=bullet;
         this.rateo=rateo;
+        System.out.println("p");
                 
     }
 
